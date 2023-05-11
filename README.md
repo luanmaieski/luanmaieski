@@ -28,6 +28,6 @@
 </div>
 
 # Projetos de Ciência de Dados
-[Previsão de Vendas Rede de Farmácias Rossmann](https://github.com/luanmaieski/DataScience_Em_Producao)
+## [Previsão de Vendas Rede de Farmácias Rossmann](https://github.com/luanmaieski/DataScience_Em_Producao)
 
 Projeto de Ciência de Dados end-to-end com o objetivo de fazer a previsão de vendas das lojas de uma rede farmaceutica. com o produto final sendo um Bot no Telegram que dado o codigo da loja, responde com a previsão de vendas das próximas 6 semanas.
