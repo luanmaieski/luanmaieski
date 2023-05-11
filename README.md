@@ -9,13 +9,14 @@
   <img align="center" alt="Pandas" height="40" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="skitlearn" height="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="40" src="https://img.shields.io/badge/Render-82e0aa?style=for-the-badge&logo=render&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  
   </div>
   <br />
   <div>
   <img align="center" alt="Rafa-Csharp" height="40"  src="https://img.shields.io/badge/conda-28b463?style=for-the-badge&logo=anaconda&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="40"  src="https://img.shields.io/badge/Numpy-717d7e?style=for-the-badge&logo=numpy&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="40"  src="https://img.shields.io/badge/Git-e74c3c?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Rafa-Python" height="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   </div>
 
 
