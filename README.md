@@ -31,8 +31,12 @@
 # Projetos de Ciência de Dados
 ## [Previsão de Vendas Rede de Farmácias Rossmann](https://github.com/luanmaieski/DataScience_Em_Producao)
 
-Projeto de Ciência de Dados end-to-end com o objetivo de fazer a previsão de vendas das lojas de uma rede farmaceutica. com o produto final sendo um Bot no Telegram que dado o codigo da loja, responde com a previsão de vendas das próximas 6 semanas.
+Projeto de Ciência de Dados end-to-end com o objetivo de fazer a previsão de vendas das lojas de uma rede farmaceutica. Com o produto final sendo um Bot no Telegram que dado o codigo da loja, responde com a previsão de vendas das próximas 6 semanas.
 
 ## [Rankeamento de Clientes para Cross Selling de Seguros](https://github.com/luanmaieski/health_insurance_cross-sell)
 
 Projeto com o objetivo de fazer o rankeamento de clientes pela propensão dos clientes antigos comprarem o novo produto que é o seguro veicular. O produto final é a funcionalidade de rankear os clientes através de uma planilha do Google Sheets.
+
+## [Clusterização de Clientes para programa de fidelidade](https://github.com/luanmaieski/insiders_clustering)
+
+Agrupamento de clientes para descobrir qual o grupo tem os clientes mais valiosos e inclui-los em um programa com tratamento especial. O resultado foi a lista com os melhores clientes e um Dashboard de acompanhamento no Metabase.
